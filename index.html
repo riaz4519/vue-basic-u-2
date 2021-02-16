@@ -6,6 +6,16 @@
 
     <title>Learning vue</title>
     <script src="https://unpkg.com/vue@3.0.2"></script>
+    <style>
+        .box {
+            padding: 100px 0;
+            width: 400px;
+            text-align: center;
+            background: #ddd;
+            margin: 20px;
+            display: inline-block;
+        }
+    </style>
 
 </head>
 <body>
@@ -22,6 +32,12 @@
     </button>
 
     <div v-show="showBooks">Currently showing books</div>
+    <br>
+    <!--mouse events-->
+    <div class="box" v-on:mouseover="handleEvent($event,5)">mouseover</div>
+    <div class="box" v-on:mouseleave="handleEvent">mouseleave</div>
+    <div class="box" v-on:dblclick="handleEvent">double click</div>
+    <div class="box" v-on:mousemove="handleMouseMove">Position  - {{ x }} {{ y }}</div>
 
 </div>
 
