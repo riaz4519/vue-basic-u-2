@@ -13,10 +13,16 @@
 <h1>Hello world</h1>
 
 <div id="app">
-    <h2>{{ title }} - {{ author }} - {{ age}}</h2>
-     <button v-on:click="age++">Increase age</button>
-     <button v-on:click="age--">Decrease age</button>
-    <div @click="changeTitle('new title from parameter')">Change book title</div>
+    <div v-if="showBooks">
+        <h2>{{ title }} - {{ author }} - {{ age}}</h2>
+    </div>
+    <button @click="toggleShowBooks">
+        <span v-if="showBooks">hide Books</span>
+        <span v-else>show Books</span>
+    </button>
+
+    <div v-show="showBooks">Currently showing books</div>
+
 </div>
 
 <script src="app.js"></script>
