@@ -3,11 +3,12 @@ const  app = Vue.createApp({
     //template: '<h2>I am the template</h2>'
     data(){
         return {
+            url:'https://www.google.com',
             showBooks:true,
             books:[
-                {title:'new book 1',author:'kew na 1'},
-                {title:'new book 2',author:'kew na 2'},
-                {title:'new book 3',author:'kew na 3'},
+                {title:'new book 1',author:'kew na 1',img:'assets/1.jpg'},
+                {title:'new book 2',author:'kew na 2',img:'assets/2.jpg'},
+                {title:'new book 3',author:'kew na 3',img:'assets/3.jpg'},
             ]
 
         }

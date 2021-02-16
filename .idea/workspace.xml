@@ -38,7 +38,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../officeMain/gicclients" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -51,7 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1613401076864</updated>
       <workItem from="1613401077973" duration="1589000" />
-      <workItem from="1613453161150" duration="9447000" />
+      <workItem from="1613453161150" duration="10661000" />
     </task>
     <servers />
   </component>
