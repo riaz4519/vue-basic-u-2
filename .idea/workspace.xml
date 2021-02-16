@@ -2,40 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cd89332-2b0d-4725-854b-28817437e0bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../andre/lara-todo/app/Http/Controllers/AuthController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../andre/todo-app/src/components/auth/Login.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../andre/todo-app/src/components/auth/Register.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../andre/todo-app/src/components/layouts/Master.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../andre/todo-app/src/components/marketing/About.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../andre/todo-app/src/components/marketing/Landing.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../andre/todo-app/src/components/marketing/TestTodos.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../andre/todo-app/src/routes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lara-vue/laravelVueSpaSoftGear/.idea/laravelVueSpaSoftGear.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lara-vue/laravelVueSpaSoftGear/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lara-vue/laravelVueSpaSoftGear/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lara-vue/laravelVueSpaSoftGear/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lara-vue/laravelVueSpaSoftGear/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lara-vue/laravelVueSpaSoftGear/.idea/watcherTasks.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../andre/lara-todo/.idea/lara-todo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../andre/lara-todo/.idea/lara-todo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../andre/lara-todo/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../andre/lara-todo/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../andre/lara-todo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../andre/lara-todo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../andre/lara-todo/app/Providers/AuthServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/../andre/lara-todo/app/Providers/AuthServiceProvider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../andre/lara-todo/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/../andre/lara-todo/app/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../andre/lara-todo/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/../andre/lara-todo/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../andre/lara-todo/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../andre/lara-todo/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../andre/lara-todo/config/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/../andre/lara-todo/config/auth.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../andre/lara-todo/config/services.php" beforeDir="false" afterPath="$PROJECT_DIR$/../andre/lara-todo/config/services.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../andre/lara-todo/database/seeds/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/../andre/lara-todo/database/seeds/DatabaseSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../andre/lara-todo/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/../andre/lara-todo/routes/api.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../andre/todo-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../andre/todo-app/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../andre/todo-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../andre/todo-app/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../andre/todo-app/src/components/TodoItem.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../andre/todo-app/src/components/TodoItem.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../andre/todo-app/src/components/TodoList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../andre/todo-app/src/components/TodoList.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../andre/todo-app/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../andre/todo-app/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lara-vue/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lara-vue/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andre/todo-app/src/components/auth/Login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../andre/todo-app/src/components/auth/Login.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andre/todo-app/src/components/auth/Register.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../andre/todo-app/src/components/auth/Register.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andre/todo-app/src/components/layouts/Master.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../andre/todo-app/src/components/layouts/Master.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vue-basic-u-2.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +21,6 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -66,7 +37,8 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../officeMain/gicclients" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -77,8 +49,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613401076864</updated>
-      <workItem from="1613401077973" duration="1423000" />
-      <workItem from="1613421252243" duration="1753000" />
+      <workItem from="1613401077973" duration="1589000" />
+      <workItem from="1613453161150" duration="2392000" />
     </task>
     <servers />
   </component>
@@ -86,6 +58,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="164" y="417" key="FileChooserDialogImpl" timestamp="1613457331674">
+      <screen x="0" y="0" width="768" height="1326" />
+    </state>
+    <state x="164" y="417" key="FileChooserDialogImpl/0.0.768.1326/768.-105.1366.728@0.0.768.1326" timestamp="1613457331674" />
     <state x="0" y="307" key="SettingsEditor" timestamp="1613401161247">
       <screen x="0" y="0" width="768" height="1326" />
     </state>
