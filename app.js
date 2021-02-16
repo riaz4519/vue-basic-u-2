@@ -4,11 +4,12 @@ const  app = Vue.createApp({
     data(){
         return {
             showBooks:true,
-            title:"this is a book title",
-            author : 'brandon ',
-            age : 45,
-            x:0,
-            y:0
+            books:[
+                {title:'new book 1',author:'kew na 1'},
+                {title:'new book 2',author:'kew na 2'},
+                {title:'new book 3',author:'kew na 3'},
+            ]
+
         }
     },
     methods:{
