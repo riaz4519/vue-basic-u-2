@@ -8,7 +8,6 @@
       <change beforePath="$PROJECT_DIR$/../andre/todo-app/src/components/layouts/Master.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../andre/todo-app/src/components/layouts/Master.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1613401076864</updated>
       <workItem from="1613401077973" duration="1589000" />
-      <workItem from="1613453161150" duration="11809000" />
+      <workItem from="1613453161150" duration="12520000" />
     </task>
     <servers />
   </component>
